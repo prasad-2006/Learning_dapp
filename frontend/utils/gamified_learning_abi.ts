@@ -1,0 +1,1 @@
+export const GAMIFIED_LEARNING_ABI = undefined as const;
